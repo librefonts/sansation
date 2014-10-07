@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Sansation-LightItalic.ttf.ttx, Sansation-Regular.ttf.ttx, Sansation-BoldItalic.ttf.ttx,
+  Sansation-Bold.ttf.ttx, Sansation-Italic.ttf.ttx, Sansation-Light.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

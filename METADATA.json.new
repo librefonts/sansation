@@ -1,0 +1,69 @@
+{
+  "name": "Sansation",
+  "designer": "Bernd Montag",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 29137,
+  "fonts": [
+    {
+      "name": "Sansation",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sansation-Regular.ttf",
+      "postScriptName": "Sansation-Regular",
+      "fullName": "Sansation Regular",
+      "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'"
+    },
+    {
+      "name": "Sansation",
+      "style": "normal",
+      "weight": 300,
+      "filename": "SansationLight-LightItalic.ttf",
+      "postScriptName": "Sansation-LightItalic",
+      "fullName": "Sansation Light Italic",
+      "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'"
+    },
+    {
+      "name": "Sansation",
+      "style": "normal",
+      "weight": 300,
+      "filename": "SansationLight-Light.ttf",
+      "postScriptName": "Sansation-Light",
+      "fullName": "Sansation Light",
+      "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'"
+    },
+    {
+      "name": "Sansation",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Sansation-BoldItalic.ttf",
+      "postScriptName": "Sansation-BoldItalic",
+      "fullName": "Sansation Bold Italic",
+      "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'"
+    },
+    {
+      "name": "Sansation",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sansation-Italic.ttf",
+      "postScriptName": "Sansation-Italic",
+      "fullName": "Sansation Italic",
+      "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'"
+    },
+    {
+      "name": "Sansation",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Sansation-Bold.ttf",
+      "postScriptName": "Sansation-Bold",
+      "fullName": "Sansation Bold",
+      "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-18"
+}
